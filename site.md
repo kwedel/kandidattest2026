@@ -33,7 +33,7 @@ Heldigvis var journalisterne klar, så ikke længe efter kunne man tage den tilb
 Altinget, som giver en nem måde at føle sig politisk oplyst på. Men den giver også et indblik i holdningerne hos de 
 hundredevis af personer der i denne omgang kandidere til en plads i Folketinget, og hvorfor ikke udnytte det til lidt 
 politisk analyse, som måske stadig er ment som en form som underholding, men med forhåbning om at det også bliver en 
-analese mere oplysende end hvad Morten Messerschmidt putter i sin kødsovs.
+anelse mere oplysende end hvad Morten Messerschmidt putter i sin kødsovs.
 
 ## Den klassiske akse
 [Siden Den Franske Revolution](https://lex.dk/venstre-h%C3%B8jre-kontinuet) har de politiske partier været opdelt på et højre-venstre kontinum, så det er nærliggende at prøve at placere kandidaterne på en enkelt akse. Der er dog sket en del siden syttenhundredetallet og én enkelt dimension viser sig måske at være lige det mindste for at udtrykke nuancerne mellem partierne, men det er et sted at starte. Siden den klassiske akse især har været bundet til (om)fordeling af goderne tager vi her udgangspunkt i de spørgsmål der har med økonomi og velfærd at gøre.[^1] Ved at projektere alle kandidaternes svar på ind den retning hvor der er størst variation får vi nedenstående overblik over partiernes placering.
@@ -66,5 +66,5 @@ Med 25 spørgsmål og fire svarmuligheder er der 1.125.899.906.842.624 mulige sv
 Ved forige valg havde Mette Frederiksen [fået Nicolaj Wammen til at lave sine lekter](https://kwedel.github.io/kandidattest2019/#:~:text=Den%20sidste%20gruppe%20er%20et%20par%20best%C3%A5ende%20af%20Mette%20Frederiksen%20og%20Nicolai%20Wammen), men i denne omgang (lige som sidst) har hun sprunget øvelsen helt over. Men alle kender hende jo også for checken.
 
 ----
-<small>Spørgsmål eller kommentarer, så send en <a href="mailto:kaarewj@gmail.com">mail</a>
+<small>Spørgsmål eller kommentarer, så send en <a href="mailto:kaarewj@gmail.com">mail</a>  <br>
 Du kan finde analyserne fra de sidste to folketingsvalg [her](https://kwedel.github.io/kandidattest2019/) og [her](https://kwedel.github.io/kandidattest2022/) </small>
