@@ -66,4 +66,5 @@ Med 25 spørgsmål og fire svarmuligheder er der 1.125.899.906.842.624 mulige sv
 Ved forige valg havde Mette Frederiksen [fået Nicolaj Wammen til at lave sine lekter](https://kwedel.github.io/kandidattest2019/#:~:text=Den%20sidste%20gruppe%20er%20et%20par%20best%C3%A5ende%20af%20Mette%20Frederiksen%20og%20Nicolai%20Wammen), men i denne omgang (lige som sidst) har hun sprunget øvelsen helt over. Men alle kender hende jo også for checken.
 
 ----
-<small>Spørgsmål eller kommentarer, så send en <a href="mailto:kaarewj@gmail.com">mail</a></small>
+<small>Spørgsmål eller kommentarer, så send en <a href="mailto:kaarewj@gmail.com">mail</a>
+Du kan finde analyserne fra de sidste to folketingsvalg [her](https://kwedel.github.io/kandidattest2019/) og [her](https://kwedel.github.io/kandidattest2022/) </small>
